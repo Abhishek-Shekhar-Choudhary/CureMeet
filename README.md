@@ -1,6 +1,6 @@
-## Introduction
+## CureMeet
 
-Welcome to the VirtualDoc. The ultimate platform where doctors and patients meet virtually. The user can find a specific doctor among all the doctors on the platform according to their problems. This platform will help people get health guidance and tips by paying a small amount of money using their favorite payment method.
+Welcome to the CureMeet. The ultimate platform where doctors and patients meet virtually. The user can find a specific doctor among all the doctors on the platform according to their problems. This platform will help people get health guidance and tips by paying a small amount of money using their favorite payment method.
 
 ### Credentials for several Roles:
 - **User :**
